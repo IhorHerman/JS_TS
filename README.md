@@ -1,2 +1,2 @@
 # JS_TS
-Course of OleksandrHumeinuk
+Course of OleksandrHumeniuk
